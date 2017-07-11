@@ -1,5 +1,5 @@
 def hello_gitte():
-    print("Hello,bitte I'm Gitte!")
+    print("Hello, I'm Gitte!")
 
 <<<<<<< HEAD
 
